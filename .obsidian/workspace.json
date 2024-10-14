@@ -18,24 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "215089660d29b790",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "215089660d29b790",
+  "active": "79ae0dd2fc1e2a60",
   "lastOpenFiles": [
+    "auto-push.sh",
     "English.md",
     "Untitled.canvas",
     "Untitled.md",
